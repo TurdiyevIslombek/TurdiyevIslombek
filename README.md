@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a2df7&height=220&section=header&text=Islombek%20Turdiyev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:7a2df7&height=220&section=header&text=Islombek%20Turdiyev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibe%20Coder%20%7C%20Building%20what%20matters&descAlignY=55&descSize=18&descColor=94a3b8"/>
 
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Open+Source+Enthusiast;%F0%9F%8C%8D+Based+in+Tashkent%2C+Uzbekistan;%F0%9F%92%A1+Passionate+about+Education+%26+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=80&lines=%F0%9F%9A%80+Vibe+Coder+%7C+I+build+what+I+and+people+need;%F0%9F%8C%8D+Based+in+Tashkent%2C+Uzbekistan;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%92%A1+Passionate+about+Education+%26+Technology" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,14 +23,27 @@
 
 ```yaml
 name: Islombek Turdiyev
-location: Tashkent, Uzbekistan 🇺🇿
-current_focus: Full Stack Development
-education: Computer Science
+located_in: Tashkent, Uzbekistan 🇺🇿
+current_focus: Full Stack Development | AI & ML
+role: Vibe Coder 🎶
+
+philosophy: >
+  I build what I need and what people
+  around me need. If it solves a real
+  problem, I ship it.
+
 interests:
+  - Artificial Intelligence & Machine Learning
   - Peer-to-Peer Education
   - Open Source Contributions
   - Web Technologies
   - Building Cool Stuff
+
+currently_exploring:
+  - 🤖 AI/ML Fundamentals
+  - 🧠 Deep Learning
+  - 💬 Natural Language Processing
+
 motto: "Code is poetry written in logic"
 ```
 
@@ -46,7 +59,7 @@ motto: "Code is poetry written in logic"
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🎨 Frontend
 <br/>
@@ -59,7 +72,7 @@ motto: "Code is poetry written in logic"
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### ⚙️ Backend & Tools
 <br/>
@@ -70,6 +83,19 @@ motto: "Code is poetry written in logic"
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI & ML
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
 </tr>
@@ -84,12 +110,14 @@ motto: "Code is poetry written in logic"
 <h2 align="center">🏆 Featured Projects</h2>
 
 <div align="center">
-<a href="https://github.com/TurdiyevIslombek/EduBoost">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=TurdiyevIslombek&repo=EduBoost&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d2ff&title_color=7a2df7&text_color=94a3b8" />
+
+<a href="https://github.com/TurdiyevIslombek/EduBoost" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TurdiyevIslombek&repo=EduBoost&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d2ff&title_color=7a2df7&text_color=94a3b8&cache_seconds=86400" width="400" alt="EduBoost"/>
 </a>
-<a href="https://github.com/TurdiyevIslombek/First-project">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=TurdiyevIslombek&repo=First-project&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d2ff&title_color=7a2df7&text_color=94a3b8" />
+<a href="https://github.com/TurdiyevIslombek/First-project" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TurdiyevIslombek&repo=First-project&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d2ff&title_color=7a2df7&text_color=94a3b8&cache_seconds=86400" width="400" alt="First-project"/>
 </a>
+
 </div>
 
 ---
@@ -98,22 +126,30 @@ motto: "Code is poetry written in logic"
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurdiyevIslombek&show_icons=true&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d2ff&title_color=7a2df7&text_color=94a3b8&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurdiyevIslombek&layout=compact&theme=react&bg_color=0d1117&border_color=1a1b27&title_color=7a2df7&text_color=94a3b8&hide_border=false" alt="Top Languages"/>
-</div>
+<p align="center">
+  <a href="https://github.com/TurdiyevIslombek">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TurdiyevIslombek&show_icons=true&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d2ff&title_color=7a2df7&text_color=94a3b8&hide_border=false&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/TurdiyevIslombek">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurdiyevIslombek&layout=compact&theme=react&bg_color=0d1117&border_color=1a1b27&title_color=7a2df7&text_color=94a3b8&hide_border=false&cache_seconds=86400" alt="Top Languages"/>
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=TurdiyevIslombek&theme=react&background=0d1117&border=1a1b27&stroke=00d2ff&ring=7a2df7&fire=00d2ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d2ff&sideLabels=7a2df7&dates=94a3b8" alt="GitHub Streak"/>
+  <a href="https://github.com/TurdiyevIslombek">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=TurdiyevIslombek&theme=react&background=0d1117&border=1a1b27&stroke=00d2ff&ring=7a2df7&fire=00d2ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d2ff&sideLabels=7a2df7&dates=94a3b8" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurdiyevIslombek&bg_color=0d1117&color=00d2ff&line=7a2df7&point=ffffff&area=true&area_color=7a2df7&hide_border=true" alt="Contribution Graph"/>
+  <a href="https://github.com/TurdiyevIslombek">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurdiyevIslombek&bg_color=0d1117&color=00d2ff&line=7a2df7&point=ffffff&area=true&area_color=7a2df7&hide_border=true" alt="Contribution Graph"/>
+  </a>
 </div>
 
 ---
@@ -123,7 +159,9 @@ motto: "Code is poetry written in logic"
 <h2 align="center">🏅 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TurdiyevIslombek&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/TurdiyevIslombek">
+    <img src="https://github-profile-trophy.vercel.app/?username=TurdiyevIslombek&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -147,19 +185,9 @@ motto: "Code is poetry written in logic"
 <a href="https://github.com/TurdiyevIslombek" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<!-- Add your social links below -->
-
-<a href="www.linkedin.com/in/islombek-turdiyev-b919153b6" target="_blank">
+<a href="https://www.linkedin.com/in/islombek-turdiyev-b919153b6" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://t.me/Islombek_0072" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:turdiyevislombek01@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 
 </div>
 
@@ -173,9 +201,6 @@ motto: "Code is poetry written in logic"
     <img alt="github-snake" src="https://raw.githubusercontent.com/TurdiyevIslombek/TurdiyevIslombek/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-<!-- Note: To enable the snake animation, create a GitHub Action workflow in your profile repo.
-     Go to: https://github.com/Platane/snk for setup instructions. -->
 
 <br/>
 
