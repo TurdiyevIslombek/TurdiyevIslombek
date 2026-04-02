@@ -149,17 +149,17 @@ motto: "Code is poetry written in logic"
 </a>
 
 <!-- Add your social links below -->
-<!--
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+
+<a href="www.linkedin.com/in/islombek-turdiyev-b919153b6" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="YOUR_TELEGRAM_URL" target="_blank">
+<a href="https://t.me/Islombek_0072" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="mailto:YOUR_EMAIL" target="_blank">
+<a href="mailto:turdiyevislombek01@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
--->
+
 
 </div>
 
