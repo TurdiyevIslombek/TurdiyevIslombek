@@ -7,7 +7,7 @@ Self-taught builder from Bukhara, Uzbekistan. I trained a 103M-parameter Uzbek l
 [![Website](https://img.shields.io/badge/Website-turdiyevislombek.github.io-164257?style=flat-square)](REPLACE_WITH_YOUR_SITE)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-IslombekT-A9772B?style=flat-square)](https://huggingface.co/IslombekT)
 [![EduBoost](https://img.shields.io/badge/EduBoost-eduboostonline.com-1C6C86?style=flat-square)](https://www.eduboostonline.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-164257?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/islombek-turdiyev-b919153b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-164257?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/islombek-turdiyev)
 
 ---
 
