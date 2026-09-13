@@ -35,7 +35,6 @@ Low-resource NLP · tokenization · from-scratch training · full-stack web · K
 ### 📍 About
 
 Bukhara → Navoiy, Uzbekistan · speaks **Uzbek, Russian, Tajik, English**
-Outside code I do traditional Uzbek beadwork (*munchoq*) with my family — patterns built one bead at a time on a grid.
 **Goal:** build frontier-capable language models and start my own AI company.
 
 <!--
